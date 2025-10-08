@@ -10,7 +10,7 @@ E[S=0]:
 
 fe2s2 dmrg(d=8000) -116.6056091 **(This is exact.)**
 
-fe4s4 dmrg(d=4000) -327.2396369 **(The Fe4S4 energy here is reported only for reproducibility and is not converged with respect to increasing bond dimension.)**
+fe4s4 dmrg(d=4000) -327.2396369 **(Important note: The Fe4S4 energy here is reported only for reproducibility and is not converged with respect to increasing bond dimension.)**
 
 The indices for Fe3d orbitals are as follows:
 
