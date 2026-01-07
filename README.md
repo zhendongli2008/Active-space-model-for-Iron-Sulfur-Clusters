@@ -6,11 +6,17 @@ FCIDUMP files for [2Fe-2S] and [4Fe-4S] clusters built in the following paper:
 
 Detailed explanations:
 
-E[S=0]:
+For tbe ground state with spin S=0, the active space energy E[act] is
 
-fe2s2 dmrg(d=8000) -116.6056091 **(This is exact.)**
+- fe2s2: dmrg(d=8000) -116.6056091 Hartree **(Exact)**
 
-fe4s4 dmrg(d=4000) -327.2396369 **(Important note: The Fe4S4 energy here is reported only for reproducibility and is not converged with respect to increasing bond dimension.)**
+- fe4s4: dmrg(d=4000) -327.2396369 Hartree **(Approximate: the Fe4S4 energy here is reported only for reproducibility and is not converged with respect to increasing bond dimension.)**
+
+with the core energy E[core] being
+
+- fe2s2: −4976.265324 Hartree
+
+- fe4s4: −8105.560390 Hartree
 
 The indices for Fe3d orbitals are as follows:
 
