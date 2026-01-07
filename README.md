@@ -14,9 +14,9 @@ For tbe ground state with spin S=0, the active space energy E[act] is
 
 with the core energy E[core] being
 
-- fe2s2: −4976.265324 Hartree
+- fe2s2: −4976.26532397 Hartree
 
-- fe4s4: −8105.560390 Hartree
+- fe4s4: −8105.56038966 Hartree
 
 The indices for Fe3d orbitals are as follows:
 
