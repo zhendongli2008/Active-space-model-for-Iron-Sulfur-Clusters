@@ -31,3 +31,5 @@ A reasonable guess may be the broken-symmetry determinant with Ms=0:
 1.Fe2S2: spin up = {fe1}, spin down={fe2}
 
 2.Fe4S4: spin up = {fe1,fe2}, spin down={fe3,fe4}
+
+Further details are described in "Sec. S2.3 Construction of active spaces for iron-sulfur clusters" in https://static-content.springer.com/esm/art%3A10.1038%2Fs41557-019-0337-3/MediaObjects/41557_2019_337_MOESM1_ESM.pdf
